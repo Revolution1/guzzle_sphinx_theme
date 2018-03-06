@@ -25,7 +25,6 @@ body {
   padding: 20px 0;
   margin-left: 300px;
   background-color: #fff;
-  max-width: 900px;
 }
 
 a.headerlink {
@@ -379,6 +378,7 @@ table.two-column {
 
 .comment-container {
   margin: 24px auto;
+  margin-left: 300px;
 }
 
 /* Next and previous links
